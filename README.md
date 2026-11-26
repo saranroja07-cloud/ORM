@@ -58,7 +58,7 @@ class student_DBAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![alt text](<Screenshot 2026-11-25 201643.png>)
+![alt text](image.png)
 
 
 ## RESULT
